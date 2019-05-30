@@ -20,5 +20,11 @@
       <td>Prothom Java Program</td>
       <td>31</td>
     </tr>
+    <tr>
+      <th>1</th>
+      <td>Chapter 2</td>
+      <td>Syntax</td>
+      <td>58</td>
+    </tr>
   </tbody>
 </table>
