@@ -1,2 +1,6 @@
 Folder Location:
 /e/Java/Eclipse/JavaProgrammingBookByAnmBazlurRahman
+
+git command:
+
+cd e:/Java/Eclipse/JavaProgrammingBookByAnmBazlurRahman
