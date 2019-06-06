@@ -2,7 +2,7 @@ package programming.practice.chapter1.prothomjavaprogram;
 
 import java.util.Scanner;
 
-public class InputDemo_1_6_1 {
+public class InputDemo_1_6_2 {
 
 	public static void main(String[] args) {
 		
