@@ -9,7 +9,8 @@
     <tr>
       <th>Sl No.</th>
       <th>Chapter</th>
-      <th>Topics</th>
+      <th>Chapter Name</th>
+      <th>Topics Covered</th>
       <th>Page</th>
     </tr>
   </thead>
@@ -25,6 +26,19 @@
       <td>Chapter 2</td>
       <td>Syntax</td>
       <td>58</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Chapter 3</td>
+      <td>Data Type, Operator, Expression</td>
+      <td>Variable, Primitive Data Type, Integer, Long Double, Float, Char, Wrapper Class, Literal, Different kinds of operator, Expression</td>
+      <td>83</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Chapter 4</td>
+      <td>Control Flow, Looping, Branching</td>
+      <td>118</td>
     </tr>
   </tbody>
 </table>
