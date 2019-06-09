@@ -31,6 +31,7 @@
       <th>3</th>
       <td>Chapter 3</td>
       <td>Data Type, Operator, Expression</td>
+      <td>Variable, Primitive Data Type, Integer, Long Double, Float, Char, Wrapper Class, Literal, Different kinds of operator, Expression</td>
       <td>83</td>
     </tr>
     <tr>
