@@ -26,5 +26,17 @@
       <td>Syntax</td>
       <td>58</td>
     </tr>
+    <tr>
+      <th>2</th>
+      <td>Chapter 3</td>
+      <td>Data Type, Operator, Expression</td>
+      <td>83</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Chapter 4</td>
+      <td>Control Flow, Looping, Branching</td>
+      <td>118</td>
+    </tr>
   </tbody>
 </table>
