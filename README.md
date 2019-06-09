@@ -9,7 +9,8 @@
     <tr>
       <th>Sl No.</th>
       <th>Chapter</th>
-      <th>Topics</th>
+      <th>Chapter Name</th>
+      <th>Topics Covered</th>
       <th>Page</th>
     </tr>
   </thead>
