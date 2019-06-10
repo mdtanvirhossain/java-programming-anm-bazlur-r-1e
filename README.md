@@ -38,6 +38,7 @@
       <th>4</th>
       <td>Chapter 4</td>
       <td>Control Flow, Looping, Branching</td>
+      <td>if-else, switch-case, for,while,do-while-loop, break,continue and return statement</td>
       <td>118</td>
     </tr>
   </tbody>
