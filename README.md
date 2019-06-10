@@ -19,12 +19,14 @@
       <th>1</th>
       <td>Chapter 1</td>
       <td>Prothom Java Program</td>
+      <td>Introduction to java language, JVM, JDK, JRE and Java IDE</td>
       <td>31</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Chapter 2</td>
       <td>Syntax</td>
+      <td>Package declaration, import statement, class, field, method, constructor, comments</td>
       <td>58</td>
     </tr>
     <tr>
