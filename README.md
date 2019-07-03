@@ -49,12 +49,20 @@
       <td>Array</td>
       <td>What is array?, Array variable declare, Build and access in array, Multi dimensional array,Length & Iteratio of array, Array copy</td>
       <td>140</td>
-    </tr><tr>
+    </tr>
+	<tr>
       <td>6</td>
       <td>Chapter 6</td>
       <td>Object Oriented Programming</td>
       <td>Object, Class, Interface, Abstract Class, Object Oriented Concept, Inheritance, Polymorphism, Encapsulation</td>
       <td>158</td>
+    </tr>
+	<tr>
+      <td>7</td>
+      <td>Chapter 7</td>
+      <td>Java Exception Handling</td>
+      <td>Exception basic, try-catch-finally, Exception Heirarchy, Checked Exception & Unchecked Exception, Stack Trace, Common Exception Class, How to write customized exception</td>
+      <td>212</td>
     </tr>
   </tbody>
 </table>
