@@ -1,6 +1,5 @@
 package programming.practice.chapter7.java_exception_handling;
 
-import com.sun.corba.se.spi.orbutil.fsm.Guard.Result;
 
 public class Chapter7_Main {
 	public static void main(String[] args) {
