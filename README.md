@@ -71,7 +71,7 @@
       <td>Stream, Byte Stream, Character Stream, File,Text file Read & Write</td>
       <td>259</td>
     </tr>
-	  tr>
+	  <tr>
       <td>10</td>
       <td>Chapter 10</td>
       <td>Java NIO</td>
