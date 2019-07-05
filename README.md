@@ -1,8 +1,8 @@
-# JavaProgrammingBookByAnmBazlurRahman
+# Java Programming Book By ANM Bazlur Rahman
 
 #All code of 'Java Programming' book by ANM Bazlur Rahman.
 
-#Total chapter : 15
+#Total chapter : 14
 
 <table class="table table-bordered">
   <thead>
@@ -70,6 +70,13 @@
       <td>Java I/O</td>
       <td>Stream, Byte Stream, Character Stream, File,Text file Read & Write</td>
       <td>259</td>
+    </tr>
+	  <tr>
+      <td>10</td>
+      <td>Chapter 10</td>
+      <td>Java NIO</td>
+      <td>NIO(New Input Output), Buffer, Encode & decode data in buffer, Read & write data form buffer, Channel, Read & write file using channel</td>
+      <td>281</td>
     </tr>
   </tbody>
 </table>
