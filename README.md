@@ -75,7 +75,7 @@
       <td>10</td>
       <td>Chapter 10</td>
       <td>Java NIO</td>
-      <td>NIO(New Input Output, Buffer, Encode & decode data in buffer, Read & write data form buffer, Channel, Read & write file using channel)</td>
+      <td>NIO(New Input Output), Buffer, Encode & decode data in buffer, Read & write data form buffer, Channel, Read & write file using channel</td>
       <td>281</td>
     </tr>
   </tbody>
