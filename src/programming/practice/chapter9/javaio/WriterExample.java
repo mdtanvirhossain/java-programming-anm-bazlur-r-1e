@@ -9,7 +9,7 @@ public class WriterExample {
 
 	public static void main(String[] args) {
 		
-		String desFile = "your_directory\\JavaProgrammingBookByAnmBazlurRahman\\docs\\io_file\\output.txt";
+		String desFile = "your_directory\\JavaProgrammingBookByAnmBazlurRahman\\docs\\io_file\\output1.txt";
 		
 		String data = "my data my data";
 		
