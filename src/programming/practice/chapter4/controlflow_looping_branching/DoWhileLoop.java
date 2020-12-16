@@ -14,6 +14,8 @@ public class DoWhileLoop {
 		do {
 			System.out.println("DO LOOP...");
 		}while(okay);
+		
+		inputScanner.close();
 
 	}
 

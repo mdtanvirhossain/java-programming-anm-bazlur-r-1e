@@ -27,11 +27,11 @@ public class CharsetEncode {
 			
 			fileChannel.write(encodedBuffer);
 			fileChannel.close();
+			fos.close();
 			
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-
 	}
 
 }

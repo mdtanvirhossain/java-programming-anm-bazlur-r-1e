@@ -17,6 +17,8 @@ public class InputDemo_1_6_2 {
 		int result = a + b;
 		
 		System.out.println("The result: "+result);
+		
+		scr.close();
 
 	}
 

@@ -59,6 +59,9 @@ public class SwitchCaseDemo {
 		
 		//nested switch case
 		
+		
+		input.close();
+		
 	}
 
 }

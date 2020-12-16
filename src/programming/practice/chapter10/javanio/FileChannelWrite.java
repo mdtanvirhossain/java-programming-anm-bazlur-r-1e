@@ -9,21 +9,22 @@ import java.nio.channels.FileChannel;
 public class FileChannelWrite {
 
 	public static void main(String[] args) {
-		
+
 		File outputFile = new File("your_directory\\JavaProgrammingBookByAnmBazlurRahman\\docs\\nio\\hello.txt");
-		
+
 		String text = "I love you bd";
-		
+
 		try {
 			FileOutputStream fos = new FileOutputStream(outputFile);
 			FileChannel fileChannel = fos.getChannel();
 			byte[] bytes = text.getBytes();
-			
-			ByteBuffer buffer    = ByteBuffer.wrap(bytes);
-			
+
+			ByteBuffer buffer = ByteBuffer.wrap(bytes);
+
 			fileChannel.write(buffer);
 			fileChannel.close();
-			
+			fos.close();
+
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

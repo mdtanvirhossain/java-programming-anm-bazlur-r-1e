@@ -65,5 +65,7 @@ public class Number1 {
 			
 			//System.out.println();
 		}//end of for loop
+		
+		input.close();
 	}
 }

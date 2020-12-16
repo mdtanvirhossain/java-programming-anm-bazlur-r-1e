@@ -25,6 +25,7 @@ public class WhileLoopDemo {
 		 * while(true) { System.out.println("I love java"); }
 		 */
 
+		inputScanner.close();
 	}
 
 }
