@@ -1,4 +1,4 @@
-package com.mdtanvirhossain.jp.ch6.oop.exercise_areacalculator;
+package com.mdtanvirhossain.jp.ch6.oop.areacalculator;
 
 
 public class Main {

@@ -1,4 +1,4 @@
-package com.mdtanvirhossain.jp.ch6.oop.exercise_BMI;
+package com.mdtanvirhossain.jp.ch6.oop.bmi;
 
 public class BMI {
 	

@@ -1,4 +1,4 @@
-package com.mdtanvirhossain.jp.ch6.oop.ATM;
+package com.mdtanvirhossain.jp.ch6.oop.atm;
 
 import java.util.Scanner;
 
