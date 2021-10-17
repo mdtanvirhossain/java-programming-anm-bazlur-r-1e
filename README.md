@@ -86,22 +86,22 @@
       <td>12</td>
       <td>Chapter 12</td>
       <td>String Operation</td>
-      <td>354</td>
       <td>...</td>
+      <td>354</td>
     </tr>
     <tr>
       <td>13</td>
       <td>Chapter 13</td>
       <td>Math API and utility class</td>
-      <td>367</td>
       <td>...</td>
+      <td>367</td>
     </tr>
     <tr>
       <td>14</td>
       <td>Chapter 14</td>
       <td>Unit testing</td>
-      <td>375</td>
       <td>...</td>
+      <td>375</td>
     </tr>
   </tbody>
 </table>
