@@ -1,5 +1,5 @@
 # java-programming-anm-bazlur-r-1e
-# All code of 'Java Programming' book by ANM Bazlur Rahman.
+# All code of 'Java Programming' book by ANM Bazlur Rahman, 1st Edition.
 # Total chapter : 14
 <table class="table table-bordered">
   <thead>
@@ -86,7 +86,21 @@
       <td>12</td>
       <td>Chapter 12</td>
       <td>String Operation</td>
+      <td>354</td>
       <td>...</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Chapter 13</td>
+      <td>Math API and utility class</td>
+      <td>367</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>Chapter 14</td>
+      <td>Unit testing</td>
+      <td>375</td>
       <td>...</td>
     </tr>
   </tbody>
